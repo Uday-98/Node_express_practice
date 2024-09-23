@@ -1,0 +1,6 @@
+1.create a folder name it XYZ
+2.create a file in it named bio.txt and data into it.
+3.add more data into the file at the end of the existing file.
+4.Read the data without getting the buffer data at find.
+5.Rename the file name to mybio.txt.
+6.now delete both the file and the folder.
